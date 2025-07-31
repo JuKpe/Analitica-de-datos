@@ -1,9 +1,9 @@
-# Análisis de la personalidad del cliente
+#  Análisis de la personalidad del cliente
 
 ## OBJETIVO
 Aplicar técnicas de limpieza, modelado predictivo y segmentación en Python, y construir un tablero de visualización interactiva en Power BI que ayude a comprender el comportamiento del cliente y su respuesta a campañas de marketing.
 
-## DATASET BASE
+## 📚 DATASET BASE
 Customer Personality Analysis (Kaggle)
 
 ## Descripción:
@@ -14,7 +14,7 @@ Este dataset contiene información sobre los clientes de una compañía de produ
 * Nivel de participación en campañas promocionales.
 * Respuesta a campañas de marketing.
 
-# PARTE 1: ANÁLISIS Y MODELADO CON PYTHON (SKLEARN)
+# 🧠 PARTE 1: ANÁLISIS Y MODELADO CON PYTHON (SKLEARN)
 A. Preprocesamiento de datos
   1. Carga el dataset en un Jupyter Notebook.
   2. Limpia los datos:
@@ -38,7 +38,7 @@ C. Segmentación con KMeans
   3. Visualiza los clústeres (gráfico 2D con PCA o t-SNE).
   4. Interpreta las características de cada clúster (perfiles).
 
-# PARTE 2: VISUALIZACIÓN INTERACTIVA EN POWER BI (20 pts)
+# 📊 PARTE 2: VISUALIZACIÓN INTERACTIVA EN POWER BI (20 pts)
 A. Dataset base: clientes_resultado.csv
   1. Crea un dashboard en Power BI que contenga:
      * Gráfico de barras: gasto por tipo de producto y clúster.
